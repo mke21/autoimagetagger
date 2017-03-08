@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+mxnet
+# install opencv (pacman -S opencv
